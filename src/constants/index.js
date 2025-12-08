@@ -38,6 +38,26 @@ export const skills = [
   { name: 'Framer Motion', category: 'Frontend' },
 ];
 
+export const education = [
+  {
+    id: 1,
+    degree: 'Bachelor of Science in Computer Science',
+    institution: 'University of Technology',
+    period: '2017 - 2021',
+    description: 'Specialized in Web Development and Software Engineering with a focus on modern frontend technologies.',
+    gpa: '3.8/4.0',
+    highlights: ['Dean\'s List', 'Full Scholarship', 'Student Developer Award'],
+  },
+  {
+    id: 2,
+    degree: 'Advanced Certification in Full-Stack Development',
+    institution: 'Tech Academy Online',
+    period: '2021 - 2022',
+    description: 'Intensive bootcamp covering React, Node.js, and DevOps practices.',
+    highlights: ['Top 5% of cohort', 'Capstone Project: E-commerce Platform'],
+  },
+];
+
 export const experiences = [
   {
     id: 1,
